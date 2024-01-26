@@ -1,0 +1,7 @@
+.list-container{
+    color: blue;
+}
+.list-spesa{
+    background-color: yellow;
+    list-style: square;
+}
